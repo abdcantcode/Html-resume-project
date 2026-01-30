@@ -9,7 +9,7 @@ A single-page HTML resume website showcasing a clean and structured layout. This
 View the live deployed version of the resume here:  
 <https://html-personal-resume.netlify.app/>
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](assets/Screenshot.png)  
 
