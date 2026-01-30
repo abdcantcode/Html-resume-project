@@ -24,7 +24,7 @@ Watch a demo of the project here:
 
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/abdcantcode/Html-resume-project
 ```
 
 ## Navigate to the project folder
