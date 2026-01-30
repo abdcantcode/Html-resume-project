@@ -24,19 +24,15 @@ Watch a demo of the project here:
 
 ```bash
 git clone https://github.com/abdcantcode/Html-resume-project.git
-Navigate to the project folder:
 
-bash
-cd Html-resume-project
-Open the resume in your browser:
 
-Double‑click the index.html file
+2. **Navigate to the project folder:**
+   ```bash
+   cd Html-resume-project
 
-or Right‑click → Open with → your preferred browser
+3. **Open the resume in your browser:**
+   * Double‑click the `index.html` file
+   * **OR** Right‑click → Open with → your preferred browser
 
-Usage
-Scroll through the resume to view sections like About, Skills, Experience, Projects, Education, Contact.
-
-This can be used as a template for your own personal resume page.
-
-Since no CSS is included, the structure is semantic and ideal for further customization.
+## Usage
+Scroll through the resume to view sections like About, Skills, Experience, Projects, Education, and Contact.
