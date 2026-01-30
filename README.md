@@ -25,10 +25,13 @@ Watch a demo of the project here:
 ```bash
 # Clone the repository
 git clone https://github.com
+```
 
 # Navigate to the project folder
+```bash
 cd Html-resume-project
 Use code with caution.
+```
 
 Open the resume in your browser:
 Double‑click the index.html file
