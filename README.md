@@ -27,7 +27,7 @@ Watch a demo of the project here:
 git clone https://github.com/abdcantcode/Html-resume-project.git
 
 # Navigate to the project folder
-cd Html-resume-project
+cd Html-resume-project```
 
 **Open the resume in your browser:**
 
