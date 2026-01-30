@@ -2,7 +2,7 @@
 
 ## HTML Resume Page
 
-A single-page HTML resume website showcasing a clean and structured layout. This project demonstrates proper HTML semantics, headings, tables, lists, and sections without CSS. The page includes sections such as About, Skills, Experience, Projects, Education, and Contact. (GitHub)
+A single-page HTML resume website showcasing a clean and structured layout. This project demonstrates proper HTML semantics, headings, tables, lists, and sections without CSS. The page includes sections such as About, Skills, Experience, Projects, Education, and Contact.
 
 ## Live Demo
 
@@ -28,14 +28,14 @@ git clone https://github.com
 ```
 
 ## Navigate to the project folder
+
 ```bash
 cd Html-resume-project
-Use code with caution.
 ```
 
 ## Open the Resume
 
-To view the resume in your browser:
+**To view the resume in your browser:**
 
 - **Double‑click** the `index.html` file  
 - **Or** right‑click → **Open with** → your preferred browser  
@@ -45,4 +45,3 @@ To view the resume in your browser:
 - Scroll through the resume to view sections like **About, Skills, Experience, Projects, Education, and Contact**  
 - This can be used as a template for your own personal resume page  
 - Since no CSS is included, the structure is semantic and ideal for further customization
-
