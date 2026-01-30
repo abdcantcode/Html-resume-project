@@ -23,12 +23,13 @@ Watch a demo of the project here:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abdcantcode/Html-resume-project.git
+git clone https://github.com/abdcantcode/Html-resume-project.git```
+
 
 
 2. **Navigate to the project folder:**
    ```bash
-   cd Html-resume-project
+   cd Html-resume-project```
 
 3. **Open the resume in your browser:**
    * Double‑click the `index.html` file
